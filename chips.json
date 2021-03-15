@@ -1,0 +1,42 @@
+[
+    {
+        "name": "SI01",
+        "classname": "xSI01",
+        "github_repository": "https://github.com/xinabox/arduino-SI01",
+        "header_src": "https://github.com/xinabox/arduino-SI01/blob/master/src/xSI01.h",
+        "description": "Triple Axis Accelerometer, Magnetometer and Gyroscope",
+        "product_page": "https://xinabox.cc/products/SI01/"
+    },
+    {
+        "name": "SL01",
+        "classname": "xSL01",
+        "github_repository": "https://github.com/xinabox/arduino-SL01",
+        "header_src": "https://github.com/xinabox/arduino-SL01/blob/master/src/xSL01.h",
+        "description": "Measures luminosity(visual brightness) and UV radiation",
+        "product_page": "https://xinabox.cc/products/SL01/"
+    },
+    {
+        "name": "SW01",
+        "classname": "xSL01",
+        "github_repository": "https://github.com/xinabox/arduino-SW01",
+        "header_src": "https://github.com/xinabox/arduino-SW01/blob/master/src/xSW01.h",
+        "description": "Digital (I2C) Humidity, Pressure and Temperature Sensor",
+        "product_page": "https://xinabox.cc/products/SW01/"
+    },
+    {
+        "name": "SN01",
+        "classname": "xSN01",
+        "github_repository": "https://github.com/xinabox/arduino-SN01",
+        "header_src": "https://github.com/xinabox/arduino-SN01/blob/master/src/xSN01.h",
+        "description": "GPS Based location, time, date, and location helpers.",
+        "product_page": "https://xinabox.cc/products/SN01/"
+    },
+    {
+        "name": "SG33",
+        "classname": "xSG33",
+        "github_repository": "https://github.com/xinabox/arduino-SG33",
+        "header_src": "https://github.com/xinabox/arduino-SN01/blob/master/src/xSG33.h",
+        "description": "Digital gas sensor (measures CO2)",
+        "product_page": "https://xinabox.cc/products/SG33/"
+    }
+]
